@@ -1,1 +1,1 @@
-My own solutions to the programming assignments of the Machine Learning Coursera course (https://www.coursera.org/learn/machine-learning/home/welcome)
+My own solutions to the graded programming assignments of the Machine Learning Coursera course (https://www.coursera.org/learn/machine-learning/home/welcome). Note that the ungraded assignments might not be complete.
